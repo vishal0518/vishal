@@ -1,0 +1,21 @@
+body{
+    background-image: url(pen.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px 1000px;
+}
+form{
+    border: solid 1px;
+    width: 450px;
+    margin-left: 180px;
+    padding-left: 10px;
+}
+label{
+    font-size: 22px;
+    color: crimson;
+    font-weight: bold;
+}
+input{
+    height: 35px;
+    width: 300px;
+    border-radius: 20px;
+}
